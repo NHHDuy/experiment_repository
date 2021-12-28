@@ -1,0 +1,9 @@
+/* # là id          . là class*/
+#id1 {
+    color:darkred;
+    font-size: 30 px; 
+}
+.class1 {
+    color:blueviolet;
+    font-size: 15px;
+}
